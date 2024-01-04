@@ -1,0 +1,17 @@
+body{
+    background-color: #a5c4b2;
+}
+h1{
+    color: #a35cd3;
+}
+h2{
+    color: #a35cd3;
+}
+.boton{
+    border-radius: 25px;
+    background-color: #91ffa0;
+    color: #523036;
+}
+label{
+    background-color: #e9657d;
+}
